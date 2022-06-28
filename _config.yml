@@ -1,13 +1,13 @@
 
 
 # Basic
-name:               "Joshua Glaser"
+name:               "Glaser Lab"
 title:              "title"
 description:        "description"
 
 # URL
-url:                https://jglaser2.github.io
-production_url:     https://jglaser2.github.io/
+url:                https://glaserlab.github.io
+production_url:     https://glaserlab.github.io/
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
