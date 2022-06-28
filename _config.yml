@@ -22,14 +22,18 @@ highlighter:        rouge
 
 # Navigation
 nav:
-  - name:           "about"
-    href:           "/about"
+#   - name:           "about"
+#     href:           "/about"
   - name:           "research"
     href:           "/research"
+  - name:           "people"
+    href:           "/people"
   - name:           "publications"
     href:           "/publication"
   - name:           "code"
     href:           "/code"
+  - name:           "contact"
+    href:           "/contact"
 #   - name:           "cv"
 #     href:           "/JG_CV_1221_Web.pdf"
     
