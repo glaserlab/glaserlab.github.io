@@ -1,8 +1,30 @@
----
+title: "People"
+permalink: /people/
+
+
+<div class="content list people">
+  {% for profile in site.team_members %}
+      <div class="list-item-people">
+        <p class="list-post-title">
+          {% if profile.photo %}
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+          {% endif %}
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+        </p>
+      </div>    
+  {% endfor %}
+</div>
+<hr>
+
+
+<!-- ---
 title: "People"
 layout: gridlay
 sitemap: false
 permalink: /people/
+
 ---
 <!--
 ## PI
@@ -36,7 +58,7 @@ permalink: /people/
 
 
 <!-- ## Current Students and Postdocs -->
-
+<!--
 ## The Team
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -104,7 +126,7 @@ permalink: /people/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 <!--
 ## Alumni
@@ -155,4 +177,4 @@ permalink: /people/
 
 
 ## Administrative Support
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration. -->
+<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration. --> -->
