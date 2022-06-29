@@ -3,7 +3,7 @@ title: "People"
 permalink: /people/
 ---
 
-<h3>The Team</h3>
+<!-- <h3>The Team</h3> -->
 
 <div class="content list people">
   {% for profile in site.data.team_members %}
