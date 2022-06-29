@@ -1,8 +1,8 @@
-- name: Example student name
+- name: Joshua Glaser
   photo: josh_profile3.jpg
-  info: Postdoc, started Oct 2040
+  info: Principal Investigator
   email: exampleemail@gmail.com
-  website: https://website.com
+  website: https://glaserlab.github.io/people/josh_glaser
   number_educ: 2
   education1: Postdoc with <a href="w">XYZ</a>, Harvard University
   education2: Ph.D. with <a href="w">XYZ</a>, X University

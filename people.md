@@ -10,9 +10,9 @@ permalink: /people/
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.photo %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/teampic/{{profile.photo}}"></a>
+            <a href="{{profile.website}}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/teampic/{{profile.photo}}"></a>
           {% else %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/teampic/rock.jpg"></a>
+            <a href="{{ profile.website}}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/teampic/rock.jpg"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
         </p>
