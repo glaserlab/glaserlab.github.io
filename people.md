@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 <div class="content list people">
-  {% for profile in site.team_members %}
+  {% for profile in site.data.team_members %}
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.photo %}
