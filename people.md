@@ -1,19 +1,158 @@
 ---
-title: People
+title: "People"
+layout: gridlay
+sitemap: false
 permalink: /people/
 ---
+<!--
+## PI
 
-<img width="200" src="{{site.baseurl}}/josh_profile3.jpg">
+{% for member in site.data.pi %}
 
-<i class="fa fa-envelope-o"></i>  `j.glaser@columbia.edu`<br>
+<div class="row">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i><br>
 
-### My Lab
-* I'm very excited to be starting my lab in Northwestern's Neurology Department on September 1, 2022!
-* My research focuses on developing interpretable machine learning tools to better understand neuroscience data. See my [Research](https://jglaser2.github.io/research) and [Publications](https://jglaser2.github.io/publication) sections for more.
-* I will be recruiting postdocs and students, so please reach out if you are interested.
+  {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
+  {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}
+  {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}
+  {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
+  {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
+  {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}
+  <ul style="overflow: hidden">
+
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
+
+  </ul>
+</div>
+
+{% endfor %} -->
 
 
-### About Me
-* I'm currently a postdoctoral research scientist at Columbia University in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) and Department of Statistics. I work in the labs of [Liam Paninski](http://www.stat.columbia.edu/~liam/) and [John Cunningham](http://stat.columbia.edu/~cunningham/).
-* I completed my PhD in Neuroscience at Northwestern University, in the lab of [Konrad Kording](http://kordinglab.com/). I then continued my research in the Kording lab (now at UPenn) as a postdoctoral researcher. 
-* As an undergraduate, I majored in Physics and Math at the University of Illinois Urbana-Champaign.
+<!-- ## Current Students and Postdocs -->
+
+## The Team
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br></i>
+
+  {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
+  {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}
+  {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}
+  {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
+  {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
+  {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<!--
+## Alumni
+
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %} -->
+
+<!--
+{% if site.data.alumni_visitors %}
+## Former M.S./B.S Students, Visitors
+<div class="row">
+<div class="col-sm-6 clearfix">
+{% for member in site.data.alumni_visitors %}
+{{ member.name }}
+{% endfor %}
+</div>
+</div>
+{% endif %}
+
+
+
+## Administrative Support
+<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration. -->
