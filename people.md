@@ -1,6 +1,7 @@
+---
 title: "People"
 permalink: /people/
-
+---
 
 <div class="content list people">
   {% for profile in site.team_members %}
