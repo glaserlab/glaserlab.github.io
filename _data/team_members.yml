@@ -9,14 +9,20 @@
   # education2: Ph.D. with <a href="w">XYZ</a>, X University
 
 #
-# - name: "This could be you !"
-#   photo: rock.jpg
-#   info: See <a href="www">openings</a> for more info
-#   number_educ: 0
-#   education1:
-#   education2:
-#   education3:
-#   education4:
+- name: "This could be you !"
+  photo: rock.jpg
+  role: Postdoc
+
+- name: "This could be you 2!"
+  photo: rock.jpg
+  role: PhD Student
+
+  # info: See <a href="www">openings</a> for more info
+  # number_educ: 0
+  # education1:
+  # education2:
+  # education3:
+  # education4:
 #
 #
 # - name: "This could be you !"
