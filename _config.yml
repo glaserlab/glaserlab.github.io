@@ -36,7 +36,7 @@ nav:
     href:           "/contact"
 #   - name:           "cv"
 #     href:           "/JG_CV_1221_Web.pdf"
-    
+
 # Sass
 sass:
   style:            :compressed

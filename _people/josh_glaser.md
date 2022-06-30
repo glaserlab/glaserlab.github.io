@@ -1,7 +1,6 @@
-<!-- ---
-title: People
-permalink: /people/
---- -->
+---
+name: Josh Glaser
+---
 
 <img width="200" src="{{site.baseurl}}/josh_profile3.jpg">
 
