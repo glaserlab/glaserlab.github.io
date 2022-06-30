@@ -1,5 +1,6 @@
 ---
-name: Josh Glaser
+title: Josh Glaser
+permalink: /people/josh_glaser/
 ---
 
 <img width="200" src="{{site.baseurl}}/josh_profile3.jpg">
