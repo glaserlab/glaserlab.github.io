@@ -180,4 +180,4 @@ permalink: /people/
 
 
 ## Administrative Support
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration. --> -->
+<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration. -->
