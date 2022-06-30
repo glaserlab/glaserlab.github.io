@@ -1,47 +1,48 @@
 - name: Joshua Glaser
   photo: josh_profile3.jpg
-  info: Principal Investigator
-  email: exampleemail@gmail.com
+  role: Principal Investigator
   website: https://glaserlab.github.io/people/josh_glaser
-  number_educ: 2
-  education1: Postdoc with <a href="w">XYZ</a>, Harvard University
-  education2: Ph.D. with <a href="w">XYZ</a>, X University
 
+  # email: j-glaser@northwestern.edu
+  # number_educ: 2
+  # education1: Postdoc with <a href="w">XYZ</a>, Harvard University
+  # education2: Ph.D. with <a href="w">XYZ</a>, X University
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+#
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+#
+#
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+#
+#
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+#
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
