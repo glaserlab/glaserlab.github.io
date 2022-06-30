@@ -15,7 +15,7 @@ permalink: /people/
             <a href="{{ profile.website}}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/teampic/rock.jpg"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
-          <li>  class="name" profile.role </li>
+          <b  class="name" profile.role> </b>
         </p>
       </div>    
   {% endfor %}
