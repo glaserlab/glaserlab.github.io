@@ -11,7 +11,7 @@ permalink: /research/
 
 ### Main Interests
 
-* In the **machine learning** space, our main interest is developing more interpretable machine learning methods, rather than having methods that work as black boxes. <br /><br />
+* In the **machine learning** space, our main interest is developing more interpretable machine learning methods, rather than having methods that work as black boxes. <br />
 * In the **neuroscience** space, our main interests are to understand:
    * The interaction between different neural populations (brain areas, cell types, etc)
    * How neural activity flexibly drives behavior across a wide range of conditions
@@ -19,7 +19,7 @@ permalink: /research/
 
 
 ### Current Projects <br />
-Our current projects fall into 3 general categories:
+<!-- Our current projects fall into 3 general categories: -->
 * Developing more interpretable dimensionality reduction techniques to disentangle neural activity related to different neural computations and behaviors.
 * Building interpretable decoding models to link neural activity with behavior.
 * Creating methods to better understand the interaction between multiple recorded neural populations.
