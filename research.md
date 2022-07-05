@@ -24,6 +24,11 @@ permalink: /research/
 * Building interpretable decoding models to link neural activity with behavior.
 * Creating methods to better understand the interaction between multiple recorded neural populations.
 
+<br>
+<br>
+<br>
+<br>
+<br>
  <!-- <br /><br /> -->
 
 <!---
