@@ -8,7 +8,6 @@ permalink: /people/josh_glaser/
 Assistant Professor <br>
 Department of Neurology <br>
 Department of Computer Science (by courtesy)
-
 <i class="fa fa-envelope-o"></i>  `j-glaser@northwestern.edu`<br>
 <br>
 
