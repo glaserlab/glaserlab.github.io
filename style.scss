@@ -548,11 +548,12 @@ tbody tr:nth-child(odd) th {
 
 // fix spacing
 .footer>h5 {
+  margin-top: 50px;
   margin-bottom: 0;
 }
 
 // change font for navbar
-.footer>h5>a {
+.footer>h5 {
   background-color: cccccc;
   color: #000066;
   //font-family: 'Open Sans', sans-serif;
