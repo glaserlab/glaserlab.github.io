@@ -5,12 +5,12 @@ permalink: /people/josh_glaser/
 
 <img width="200" src="{{site.baseurl}}/josh_profile3.jpg">
 
-Assistant Professor
-Department of Neurology
-Department of Computer Science (by courtesy)
+Assistant Professor <br>
+Department of Neurology <br>
+Department of Computer Science (by courtesy) <br>
 
 <i class="fa fa-envelope-o"></i>  `j-glaser@northwestern.edu`<br>
-
+<br>
 
 ### About Me
 * I'm very excited to be starting my lab in Northwestern's Neurology Department on September 1, 2022!
