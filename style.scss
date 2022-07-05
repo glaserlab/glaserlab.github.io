@@ -544,3 +544,21 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
+
+
+// fix spacing
+.footer>li {
+  margin-bottom: 0;
+}
+
+// change font for navbar
+.footer>li>a {
+  background-color: cccccc;
+  color: #000066;
+  //font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", "Source Sans Pro";
+//   font-family: 'Courier New', Courier;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 100%;
+}
