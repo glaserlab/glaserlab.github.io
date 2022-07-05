@@ -88,8 +88,18 @@ Frontiers in Computational Neuroscience, 2013 ([Paper](http://journal.frontiersi
 
 _Statistical Analysis of Molecular Signal Recording_<br>
 **Joshua I. Glaser**, Bradley M. Zamft, Adam H. Marblestone, Jeffrey R. Moffitt, Keith Tyo, Edward S. Boyden, George Church, Konrad P. Kording<br>
-PLoS Computational Biology, 2013 ([Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003145))
+PLoS Computational Biology, 2013 ([Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003145))<br>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
