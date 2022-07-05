@@ -5,6 +5,10 @@ permalink: /people/josh_glaser/
 
 <img width="200" src="{{site.baseurl}}/josh_profile3.jpg">
 
+Assistant Professor
+Department of Neurology
+Department of Computer Science (by courtesy)
+
 <i class="fa fa-envelope-o"></i>  `j-glaser@northwestern.edu`<br>
 
 
