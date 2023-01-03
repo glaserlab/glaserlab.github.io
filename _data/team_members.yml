@@ -9,9 +9,10 @@
   # education2: Ph.D. with <a href="w">XYZ</a>, X University
 
 #
-# - name: Website test
-#   photo: josh_profile3.jpg
-#   role: Postdoc
+- name: Alec Lei
+  photo: alec.JPG
+  role: PhD Student
+  website: https://glaserlab.github.io/people/alec_lei
 #
 # - name: Website test
 #   photo: josh_profile3.jpg
