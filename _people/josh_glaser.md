@@ -12,8 +12,7 @@ Department of Computer Science (by courtesy)
 <i class="fa fa-envelope-o"></i>  `j-glaser@northwestern.edu`<br>
 <br>
 
-### About Me
-* I'm very excited to be starting my lab in Northwestern's Neurology Department on September 1, 2022!
-* I'm currently a postdoctoral research scientist at Columbia University in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) and Department of Statistics. I work in the labs of [Liam Paninski](http://www.stat.columbia.edu/~liam/) and [John Cunningham](http://stat.columbia.edu/~cunningham/).
+### Background
+* I was a postdoctoral research scientist at Columbia University in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) and Department of Statistics. I worked in the labs of [Liam Paninski](http://www.stat.columbia.edu/~liam/) and [John Cunningham](http://stat.columbia.edu/~cunningham/).
 * I completed my PhD in Neuroscience at Northwestern University, in the lab of [Konrad Kording](http://kordinglab.com/). I then continued my research in the Kording lab (now at UPenn) as a postdoctoral researcher.
 * As an undergraduate, I majored in Physics and Math at the University of Illinois Urbana-Champaign.
