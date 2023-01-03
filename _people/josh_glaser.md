@@ -3,7 +3,7 @@ title: Josh Glaser
 permalink: /people/josh_glaser/
 ---
 
-<img width="200" src="{{site.baseurl}}/josh_profile3.jpg">
+<img width="200" src="{{site.baseurl}}/images/teampic/josh_profile3.jpg">
 
 Assistant Professor <br>
 Department of Neurology <br>
