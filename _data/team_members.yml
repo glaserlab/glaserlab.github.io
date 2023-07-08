@@ -14,20 +14,21 @@
   role: PhD Student
   website: https://glaserlab.github.io/people/alec_lei
 
+
 - name: Andrew Ulmer
   photo: andrew_photo.png
   role: PhD Student
   website: https://glaserlab.github.io/people/andrew_ulmer
 
-- name: Diya Basrai
-  photo: diya_photo.png
-  role: PhD Student
-  website: https://glaserlab.github.io/people/diya_basrai
-
 - name: Sherry An
   photo: sherry_photo.png
   role: PhD Student
   website: https://glaserlab.github.io/people/sherry_an
+
+- name: Diya Basrai
+  photo: diya_photo.png
+  role: PhD Student
+  website: https://glaserlab.github.io/people/diya_basrai
 
 - name: Clay Surmeier
   photo: gray_square.png
