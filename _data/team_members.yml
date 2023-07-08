@@ -13,10 +13,31 @@
   photo: Alec.JPG
   role: PhD Student
   website: https://glaserlab.github.io/people/alec_lei
-#
-- name: Website test
-  photo: square.png
+
+- name: Andrew Ulmer
+  photo: andrew_photo.png
   role: PhD Student
+  website: https://glaserlab.github.io/people/andrew_ulmer
+
+- name: Diya Basrai
+  photo: diya_photo.png
+  role: PhD Student
+  website: https://glaserlab.github.io/people/diya_basrai
+
+- name: Sherry An
+  photo: sherry_photo.png
+  role: PhD Student
+  website: https://glaserlab.github.io/people/sherry_an
+
+- name: Clay Surmeier
+  photo: gray_square.png
+  role: PhD Student
+  website: https://glaserlab.github.io/people/clay_surmeier
+
+- name: Yagmur Aytemiz
+  photo: yagmur_photo.png
+  role: Undergraduate Student
+  website: https://glaserlab.github.io/people/yagmur_aytemiz
 # #
 # - name: "This could be you 2!"
 #   photo: rock.jpg
