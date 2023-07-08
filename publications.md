@@ -10,6 +10,10 @@ Please email me if you would like me to send you a copy of any of these papers t
 
 ### Publications
 
+_Switching Autoregressive Low-rank Tensor Models_<br>
+Hyun Dong Lee, Andrew Warrington, **Joshua I. Glaser**, Scott W. Linderman <br>
+arXiv, 2023 ([Paper](https://arxiv.org/pdf/2306.03291.pdf))
+
 _Flexible neural control of motor units_<br>
 Najja J. Marshall, **Joshua I. Glaser**, Eric M. Trautmann, Elom A. Amematsro, Sean M. Perkins, Michael N. Shadlen, L.F. Abbott, John P. Cunningham, and Mark M. Churchland <br>
 Nature Neuroscience, 2022 ([Paper](https://www.nature.com/articles/s41593-022-01165-8.epdf?sharing_token=Ly8yMUU0tGaifqpTnFtlTdRgN0jAjWel9jnR3ZoTv0ONTthnv0HvlA-TB64umlqmJxWa3QDKHAcRGi63SLlqGX45bVm1atk2KZfoX_FCINQwN3HfU2dWKqjtuU0ntIk14XZQdQ4fDw_JIH3HPm-F16ie8SnC0zgKM7vVO5STjgo%3D))
