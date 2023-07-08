@@ -14,9 +14,9 @@
   role: PhD Student
   website: https://glaserlab.github.io/people/alec_lei
 #
-# - name: Website test
-#   photo: josh_profile3.jpg
-#   role: Postdoc
+- name: Website test
+  photo: square.png
+  role: PhD Student
 # #
 # - name: "This could be you 2!"
 #   photo: rock.jpg
