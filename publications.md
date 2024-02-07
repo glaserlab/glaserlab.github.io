@@ -3,16 +3,20 @@ title: Publication
 permalink: /publication/
 ---
 
-Please email me if you would like me to send you a copy of any of these papers that are behind a paywall.
+Please email us if you would like me to send you a copy of any of these papers that are behind a paywall.
 
 [<i class="fa fa-google"></i> Google Scholar](https://scholar.google.com/citations?user=tbfWCDgAAAAJ&hl=en) may have a more updated list of publications.
 
 
 ### Publications
 
+_Identifying Interpretable Latent Factors with Sparse Component Analysis_<br>
+Andrew J. Zimnik, K. Cora Ames, **Xinyue An**, Laura Driscoll, Antonio H. Lara, Abigail A. Russo, Vladislav Susoy, John P. Cunningham, Liam Paninski, Mark M. Churchland, **Joshua I. Glaser** <br>
+bioRxiv, 2024 ([Paper](https://www.biorxiv.org/content/10.1101/2024.02.05.578988v1.full.pdf))
+
 _Switching Autoregressive Low-rank Tensor Models_<br>
 Hyun Dong Lee, Andrew Warrington, **Joshua I. Glaser**, Scott W. Linderman <br>
-arXiv, 2023 ([Paper](https://arxiv.org/pdf/2306.03291.pdf))
+NeurIPS, 2023 ([Paper](https://openreview.net/pdf?id=fFJThJ94rY))
 
 _Flexible neural control of motor units_<br>
 Najja J. Marshall, **Joshua I. Glaser**, Eric M. Trautmann, Elom A. Amematsro, Sean M. Perkins, Michael N. Shadlen, L.F. Abbott, John P. Cunningham, and Mark M. Churchland <br>
