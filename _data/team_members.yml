@@ -14,15 +14,15 @@
   role: PhD Student
   website: https://glaserlab.github.io/people/alec_lei
 
-- name: Andrew Ulmer
-  photo: andrew_photo.png
-  role: PhD Student
-  website: https://glaserlab.github.io/people/andrew_ulmer
-
 - name: Xinyue (Sherry) An
   photo: sherry_photo.jpg
   role: PhD Student
   website: https://glaserlab.github.io/people/sherry_an
+
+- name: Andrew Ulmer
+  photo: andrew_photo.png
+  role: PhD Student
+  website: https://glaserlab.github.io/people/andrew_ulmer
 
 - name: Diya Basrai
   photo: diya_photo.png
@@ -33,6 +33,16 @@
   photo: clay_photo.png
   role: PhD Student
   website: https://glaserlab.github.io/people/clay_surmeier
+
+- name: JeongYoon Lee
+  photo: jeongyoon_photo.jpeg
+  role: Masters Student
+  website: https://glaserlab.github.io/people/jeongyoon_lee
+
+- name: Andrew Shen
+  photo: shen_photo.jpg
+  role: Masters Student
+  website: https://glaserlab.github.io/people/andrew_shen
 
 - name: Yagmur Aytemiz
   photo: yagmur_photo.jpg
