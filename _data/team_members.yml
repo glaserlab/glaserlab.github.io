@@ -9,6 +9,16 @@
   # education2: Ph.D. with <a href="w">XYZ</a>, X University
 
 #
+- name: Zeinab Mohammadi
+  photo: zeinab.JPG
+  role: Postdoc
+  website: https://glaserlab.github.io/people/zeinab
+
+- name: Shoutik Mukherjee
+  photo: shoutik_photo.JPG
+  role: Postdoc
+  website: https://glaserlab.github.io/people/shoutik
+
 - name: Tianhao (Alec) Lei
   photo: Alec.JPG
   role: PhD Student
@@ -43,6 +53,11 @@
   photo: shen_photo.jpg
   role: Masters Student
   website: https://glaserlab.github.io/people/andrew_shen
+
+- name: Jiyul Kim
+  photo: jiyul.png
+  role: Masters Student
+  website: https://glaserlab.github.io/people/jiyul
 
 - name: Yagmur Aytemiz
   photo: yagmur_photo.jpg
