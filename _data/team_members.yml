@@ -44,25 +44,40 @@
   role: PhD Student
   website: https://glaserlab.github.io/people/clay_surmeier
 
-- name: JeongYoon Lee
-  photo: jeongyoon_photo.jpeg
-  role: Masters Student
-  website: https://glaserlab.github.io/people/jeongyoon_lee
+# - name: JeongYoon Lee
+#   photo: jeongyoon_photo.jpeg
+#   role: Masters Student
+#   website: https://glaserlab.github.io/people/jeongyoon_lee
 
 - name: Andrew Shen
   photo: shen_photo.jpg
   role: Masters Student
   website: https://glaserlab.github.io/people/andrew_shen
 
-- name: Jiyul Kim
-  photo: jiyul2.png
-  role: Masters Student
-  website: https://glaserlab.github.io/people/jiyul
+# - name: Jiyul Kim
+#   photo: jiyul2.png
+#   role: Masters Student
+#   website: https://glaserlab.github.io/people/jiyul
 
-- name: Yagmur Aytemiz
-  photo: yagmur_photo.jpg
+- name: Yimin Huang
+  photo: yimin_photo.jpg
   role: Undergraduate Student
-  website: https://glaserlab.github.io/people/yagmur_aytemiz
+  website: https://glaserlab.github.io/people/yimin_huang
+
+- name: Ishaan Jalan
+  photo: ishaan_photo.jpg
+  role: Undergraduate Student
+  website: https://glaserlab.github.io/people/ishaan_jalan
+
+- name: Maanvi Sarwadi
+  photo: maanvi_photo.jpg
+  role: Undergraduate Student
+  website: https://glaserlab.github.io/people/maanvi_sarwadi
+
+# - name: Yagmur Aytemiz
+#   photo: yagmur_photo.jpg
+#   role: Undergraduate Student
+#   website: https://glaserlab.github.io/people/yagmur_aytemiz
 # #
 # - name: "This could be you 2!"
 #   photo: rock.jpg
