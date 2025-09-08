@@ -10,6 +10,18 @@ Please email us if you would like me to send you a copy of any of these papers t
 
 ### Publications
 
+_Active Dissociation of Intracortical Spiking and High Gamma Activity_<br>
+**Tianhao Lei**, Michael R Scheid, **Joshua I Glaser**, Marc W Slutzky <br>
+bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.07.10.663559v1.abstract))
+
+_Decoding speech intent from non-frontal cortical areas_<br>
+Prashanth Ravi Prakash, **Tianhao Lei**, Robert D Flint, Jason K Hsieh, Zachary Fitzgerald, Emily Mugler, Jessica Templer, Matthew A Goldrick, Matthew C Tate, Joshua Rosenow, **Joshua I Glaser**, Marc W Slutzky <br>
+Journal of Neural Engineering, 2025 ([Paper](https://iopscience.iop.org/article/10.1088/1741-2552/adaa20/meta))
+
+_Neural dynamics hierarchy in motor cortex and striatum across naturalistic behaviors_<br>
+David Xing, **Joshua I. Glaser**, Andrew Miri <br>
+bioRxiv, 2024 ([Paper](https://www.biorxiv.org/content/10.1101/2024.12.17.629049v1.abstract))
+
 _Identifying Interpretable Latent Factors with Sparse Component Analysis_<br>
 Andrew J. Zimnik, K. Cora Ames, **Xinyue An**, Laura Driscoll, Antonio H. Lara, Abigail A. Russo, Vladislav Susoy, John P. Cunningham, Liam Paninski, Mark M. Churchland, **Joshua I. Glaser** <br>
 bioRxiv, 2024 ([Paper](https://www.biorxiv.org/content/10.1101/2024.02.05.578988v1.full.pdf))
