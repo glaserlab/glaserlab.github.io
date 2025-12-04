@@ -10,9 +10,17 @@ Please email us if you would like me to send you a copy of any of these papers t
 
 ### Publications
 
+_Constraining inference of across-region interactions using neural activity perturbations_<br>
+**Diya Basrai**, JeongYoon Lee, Amy Kristl, Peiyu Wang, Andrew Miri, **Joshua I Glaser** <br>
+bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1.abstract))
+
 _Active Dissociation of Intracortical Spiking and High Gamma Activity_<br>
 **Tianhao Lei**, Michael R Scheid, **Joshua I Glaser**, Marc W Slutzky <br>
 bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.07.10.663559v1.abstract))
+
+_A brain-wide, trial-and time-dependent deterministic drive for self-initiated action decisions_<br>
+Michael A Elbaz, Kole Butterer, **Joshua I Glaser**, Andrew Miri <br>
+bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.10.28.685235v1.abstract))
 
 _Decoding speech intent from non-frontal cortical areas_<br>
 Prashanth Ravi Prakash, **Tianhao Lei**, Robert D Flint, Jason K Hsieh, Zachary Fitzgerald, Emily Mugler, Jessica Templer, Matthew A Goldrick, Matthew C Tate, Joshua Rosenow, **Joshua I Glaser**, Marc W Slutzky <br>
