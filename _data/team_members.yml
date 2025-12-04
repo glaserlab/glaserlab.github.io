@@ -44,15 +44,20 @@
   role: PhD Student
   website: https://glaserlab.github.io/people/clay_surmeier
 
+- name: Bareesh Bhaduri
+  photo: bareesh_photo.jpg
+  role: PhD Student
+  website: https://glaserlab.github.io/people/bareesh
+
 # - name: JeongYoon Lee
 #   photo: jeongyoon_photo.jpeg
 #   role: Masters Student
 #   website: https://glaserlab.github.io/people/jeongyoon_lee
 
-- name: Andrew Shen
-  photo: shen_photo.jpg
-  role: Masters Student
-  website: https://glaserlab.github.io/people/andrew_shen
+# - name: Andrew Shen
+#   photo: shen_photo.jpg
+#   role: Masters Student
+#   website: https://glaserlab.github.io/people/andrew_shen
 
 # - name: Jiyul Kim
 #   photo: jiyul2.png
