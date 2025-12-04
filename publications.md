@@ -11,7 +11,7 @@ Please email us if you would like me to send you a copy of any of these papers t
 ### Publications
 
 _Constraining inference of across-region interactions using neural activity perturbations_<br>
-**Diya Basrai**, JeongYoon Lee, Amy Kristl, Peiyu Wang, Andrew Miri, **Joshua I Glaser** <br>
+**Diya Basrai**, JeongYoon Lee, Amy Kristl, Peiyu Wang, Andrew Miri\*, **Joshua I Glaser\*** <br>
 bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1.abstract))
 
 _Active Dissociation of Intracortical Spiking and High Gamma Activity_<br>
