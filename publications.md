@@ -10,13 +10,17 @@ Please email us if you would like me to send you a copy of any of these papers t
 
 ### Publications
 
+_Active Dissociation of Intracortical Spiking and High Gamma Activity_<br>
+**Tianhao Lei**, Michael R Scheid, Robert Flint, **Joshua I Glaser\***, Marc W Slutzky\* <br>
+Nature, 2026 ([Paper](https://www.nature.com/articles/s41586-026-10331-y))
+
+_Flexible integration of corollary discharge and sensory feedback signals in somatosensory cortex_<br>
+**Xinyue An**, Raeed Chowdhury, Kyle Blum, Lee Miller, **Joshua I Glaser** <br>
+bioRxiv, 2026 ([Paper](https://www.biorxiv.org/content/10.64898/2026.04.02.716126v1))
+
 _Constraining inference of across-region interactions using neural activity perturbations_<br>
 **Diya Basrai**, JeongYoon Lee, Amy Kristl, Peiyu Wang, Andrew Miri\*, **Joshua I Glaser\*** <br>
 bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1.abstract))
-
-_Active Dissociation of Intracortical Spiking and High Gamma Activity_<br>
-**Tianhao Lei**, Michael R Scheid, **Joshua I Glaser**, Marc W Slutzky <br>
-bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.07.10.663559v1.abstract))
 
 _A brain-wide, trial-and time-dependent deterministic drive for self-initiated action decisions_<br>
 Michael A Elbaz, Kole Butterer, **Joshua I Glaser**, Andrew Miri <br>
