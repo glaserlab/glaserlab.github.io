@@ -19,7 +19,7 @@ _Flexible integration of corollary discharge and sensory feedback signals in som
 bioRxiv, 2026 ([Paper](https://www.biorxiv.org/content/10.64898/2026.04.02.716126v1))
 
 _Constraining inference of across-region interactions using neural activity perturbations_<br>
-**Diya Basrai**, JeongYoon Lee, Amy Kristl, Peiyu Wang, Andrew Miri\*, **Joshua I Glaser\*** <br>
+**Diya Basrai**, **JeongYoon Lee**, Amy Kristl, Peiyu Wang, Andrew Miri\*, **Joshua I Glaser\*** <br>
 bioRxiv, 2025 ([Paper](https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1.abstract))
 
 _A brain-wide, trial-and time-dependent deterministic drive for self-initiated action decisions_<br>
